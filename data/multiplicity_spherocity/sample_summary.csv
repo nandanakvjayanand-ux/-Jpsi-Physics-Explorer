@@ -1,0 +1,3 @@
+configuration,accepted_events,total_Jpsi_candidates,source_file
+CR ON + MPI ON,169601369,121817,jpsi_spherocity_multiplicity_CRon_MPIon_101.txt
+CR OFF + MPI OFF,145560101,30166,jpsi_spherocity_multiplicity_CRoff_MPIoff_101.txt
